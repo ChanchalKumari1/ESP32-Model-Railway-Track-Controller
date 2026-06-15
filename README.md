@@ -72,8 +72,6 @@ Board1 Board2 Board3
 --
 
 ##Benefits
-<img width="454" height="487" alt="RAILWAY02" src="https://github.com/user-attachments/assets/c4809a30-693a-4b8e-bdc8-ff6814b31f4e" />
-
 * Eliminates manual track switching
 * Easy web-based control
 * Precise and repeatable operation
