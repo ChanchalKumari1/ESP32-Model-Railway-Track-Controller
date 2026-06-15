@@ -1,5 +1,6 @@
 ##ESP32-Model-Railway-Track-Controller
 
+<img width="683" height="621" alt="RAILWAY " src="https://github.com/user-attachments/assets/37b8e8a7-7365-4695-b603-3bb15a4a41de" />
 
 ##Project Overview
 
@@ -16,6 +17,8 @@ ESP32-based Wi-Fi railway track controller for managing 24 servo-driven track po
 --
 
 ##Hardware Features
+<img width="449" height="373" alt="RAILWAY01" src="https://github.com/user-attachments/assets/d5c2ad62-d5ee-404a-b5ae-6549c331b992" />
+
 * ESP32 microcontroller with integrated Wi-Fi
 * Custom PCB design
 * 8 servo channels per controller board
@@ -69,6 +72,8 @@ Board1 Board2 Board3
 --
 
 ##Benefits
+<img width="454" height="487" alt="RAILWAY02" src="https://github.com/user-attachments/assets/c4809a30-693a-4b8e-bdc8-ff6814b31f4e" />
+
 * Eliminates manual track switching
 * Easy web-based control
 * Precise and repeatable operation
