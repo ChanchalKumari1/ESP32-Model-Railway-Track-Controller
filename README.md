@@ -12,6 +12,7 @@ This project was developed for a private model railway enthusiast who required a
 * Scalable multi-board architecture
 * Reliable and repeatable operation
 The final system consists of three custom ESP32 boards, each capable of controlling eight servo motors independently.
+ESP32-based Wi-Fi railway track controller for managing 24 servo-driven track points with custom PCB hardware, firmware, and web control. <a href="https://digitalmonk.biz/hire-arduino-developer/">Arduino Coder for Hire</a>
 --
 
 ##Hardware Features
@@ -65,6 +66,7 @@ Board1 Board2 Board3
  │       │      │
 8 Servos 8 Servos 8 Servos
 ```
+--
 
 ##Benefits
 * Eliminates manual track switching
@@ -103,6 +105,4 @@ Board1 Board2 Board3
 The completed solution enables seamless control of all 24 track points from any device connected to the local network. Each servo is individually calibrated, ensuring accurate movement and long-term reliability while maintaining a simple and user-friendly operating experience.
 --
 
-ESP32-based Wi-Fi railway track controller designed to manage 24 servo-driven track points with custom PCB hardware, firmware, and web-based control. Features individual servo calibration, remote operation, and scalable architecture for model railway automation.
 
-**[Arduino Coder for Hire](https://digitalmonk.biz/hire-arduino-developer/)**
